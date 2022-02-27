@@ -1,8 +1,7 @@
 # Colin default
-**/.DS_Store
-config.py
-/_untracked_
-.ipynb_checkpoints
+.DS_Store
+_untracked_
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
