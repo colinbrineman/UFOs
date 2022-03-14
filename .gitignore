@@ -1,7 +1,6 @@
 # Colin default
 .DS_Store
-lesson/
-untracked/
+lesson
 .vscode
 
 # Byte-compiled / optimized / DLL files
